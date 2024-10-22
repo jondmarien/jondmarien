@@ -34,7 +34,7 @@
 
 <p align='center'>
   <a>
-   ![TryHackMeStaticBadge](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)
+   <img src="[https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)" />
   </a>&nbsp;&nbsp;
 </p>
 

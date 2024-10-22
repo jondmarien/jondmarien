@@ -32,5 +32,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <a>
+   ![TryHackMeStaticBadge](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)
+  </a>&nbsp;&nbsp;
+</p>
 
-![TryHackMeStaticBadge](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)

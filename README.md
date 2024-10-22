@@ -25,10 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
 
 TryHackMe:
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-  <foreignObject width="100%" height="100%">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071" style="border:none;"></iframe>
-    </body>
-  </foreignObject>
-</svg>
+![TryHackMeStaticBadge](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)

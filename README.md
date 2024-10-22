@@ -31,6 +31,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
 
 
-<img src="{https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white}" /
+<p align='center'>
+  <a href=" https://discord.com/users/96714019636785152">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jondmarien/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://tryhackme.com/r/p/jondmarien">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 
 ![TryHackMeDynamicBadge]([https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071))

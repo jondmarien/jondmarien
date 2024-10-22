@@ -20,17 +20,17 @@
   </ul>
 </div>
 
-<!--TryHackMe Badge-->
-<p align='center'>
-  <a>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
-  </a>&nbsp;&nbsp;
-</p>
-
 <!--Github Profile Views-->
 <p align='center'>
   <a>
    <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
+  </a>&nbsp;&nbsp;
+</p>
+
+<!--TryHackMe Badge-->
+<p align='center'>
+  <a>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
   </a>&nbsp;&nbsp;
 </p>
 

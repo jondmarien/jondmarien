@@ -1,9 +1,12 @@
+<!--Hello There!-->
 <h1 align='center'>
  <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
 </h1>
 
+<!--Jon Marien Mr. Robot Text-->
 ![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/fc455e6a5eb14e9642227c6c149cb5fb4b77e340/Jon_Marien-Github_Profile_Pic.png)
 
+<!--Information about me!-->
 <div style="text-align: center; display: inline-block;">
   <ul style="list-style-position: inside; padding: 0;">
     <li>🔭 I’m currently working on increasing my knowledge and adaptability.</li>
@@ -17,12 +20,14 @@
   </ul>
 </div>
 
+<!--Github Profile Views-->
 <p align='center'>
   <a>
    <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
   </a>&nbsp;&nbsp;
 </p>
 
+<!--Disocrd, Linkedin, and TryHackMe-->
 <p align='center'>
   <a href="https://discord.gg/5CJarP6JCu">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
@@ -35,11 +40,26 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<!--Youtube, Twitch, etc.-->
+<p align='center'>
+  <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/views/UC2ZL1XH9cWgTbL9BtZNNtgA?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Jon M's YouTube channel"" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA?style=for-the-badge&logo=youtube&label=Youtube Subscribers&color=FF0000" alt="Jon M's YouTube channel"" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/sirchronoblaze">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+
+<!--Github Stats-->
 <p align='center'>
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jondmarien&theme=tokyo-night&show_icons=true&count_private=true" width="350"></a>
 </p>
 
-
+<!--TryHackMe Badge-->
 <p align='center'>
   <a>
    <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />

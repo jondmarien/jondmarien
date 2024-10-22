@@ -1,5 +1,5 @@
 <h1 align='center'>
-  ### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
+ <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
 </h1>
 
 

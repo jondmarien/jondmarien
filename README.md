@@ -16,8 +16,9 @@
 </table>
   
   <!--Jon Marien Mr. Robot Text-->
-  
-  ![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png)
+  <p align="center">
+    <img src="https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png" alt="Jon Marien GitHub Profile Pic" />
+  </p>
   
   <!--Information about me!-->
   <div style="text-align: center; display: inline-block;">

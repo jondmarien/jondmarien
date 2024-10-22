@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[!Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/main/Jon%20Marien%20Github%20Profile%20Pic.png?raw=true)
+![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/main/Jon%20Marien%20Github%20Profile%20Pic.png?raw=true)
 - 🔭 I’m currently working on increasing my knowledge and adaptibility.
 - 🌱 I’m currently learning web fundamentals.
 - 👯 I’m looking to collaborate on any project!! Message me for details.

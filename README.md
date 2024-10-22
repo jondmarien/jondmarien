@@ -4,15 +4,17 @@
 
 ![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/fc455e6a5eb14e9642227c6c149cb5fb4b77e340/Jon_Marien-Github_Profile_Pic.png)
 
-<div align="center">
-- 🔭 I’m currently working on increasing my knowledge and adaptibility.
-- 🌱 I’m currently learning web fundamentals.
-- 👯 I’m looking to collaborate on any project!! Message me for details.
-- 🤔 I’m looking for help with finding a co-op job/internship! 
-- 💬 Ask me about my passion for cybersecurity. :D
-- 📫 How to reach me: Discord is the best, you can find me @chronoblaze.
-- 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
+<div style="text-align: center; display: inline-block;">
+  <ul style="list-style-position: inside; padding: 0;">
+    <li>🔭 I’m currently working on increasing my knowledge and adaptability.</li>
+    <li>🌱 I’m currently learning web fundamentals.</li>
+    <li>👯 I’m looking to collaborate on any project!! Message me for details.</li>
+    <li>🤔 I’m looking for help with finding a co-op job/internship!</li>
+    <li>💬 Ask me about my passion for cybersecurity. :D</li>
+    <li>📫 How to reach me: Discord is the best, you can find me @chronoblaze.</li>
+    <li>😄 Pronouns: he/him/his.</li>
+    <li>⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!</li>
+  </ul>
 </div>
 
 <p align='center'>

@@ -33,7 +33,7 @@
 <!--TryHackMe Badge-->
 <p align='center'>
   <a>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
+   <img src="https://github.com/jondmarien/jondmarien/blob/89280da0d706ed107369ef125dc03bc90984a709/assets/tryhackme-badge.png" />
   </a>&nbsp;&nbsp;
 </p>
 

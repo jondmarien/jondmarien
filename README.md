@@ -36,12 +36,9 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/graph?username=jondmarien&show_icons=true&count_private=true&theme=tokyo-night" width="350"></a>
+  <a href="#"><img src="https://github-readme-graph.vercel.app/graph?username=jondmarien&show_icons=true&count_private=true&theme=tokyo-night" width="350"></a>
 </p>
 
-<!--
-Fix Dymamic Badge
--->
 <p align='center'>
   <a>
    <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />

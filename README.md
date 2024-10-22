@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
 
-![TryHackMeStaticBadge]([https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071))
+![TryHackMeDynamicBadge]([https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071))

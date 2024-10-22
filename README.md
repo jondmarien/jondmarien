@@ -2,7 +2,7 @@
  <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
 </h1>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien" /> </p>
 
 <!--
 **jondmarien/jondmarien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
  ![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/fc455e6a5eb14e9642227c6c149cb5fb4b77e340/Jon_Marien-Github_Profile_Pic.png)
 </p>
 
+
+
 <p align='center'>
 - 🔭 I’m currently working on increasing my knowledge and adaptibility.
 - 🌱 I’m currently learning web fundamentals.
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
 </p>
 
-![image]({https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white})
+
+<img src="{https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white}" /
 
 ![TryHackMeDynamicBadge]([https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071))

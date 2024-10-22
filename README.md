@@ -2,7 +2,7 @@
  <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien" /> </p>
+<p">  </p>
 
 <!--
 **jondmarien/jondmarien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href=" https://discord.com/users/96714019636785152">
+  <a href="https://discord.gg/5CJarP6JCu">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jondmarien/">
@@ -40,6 +40,9 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/jondmarien">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a>
+   <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
   </a>&nbsp;&nbsp;
 </p>
 

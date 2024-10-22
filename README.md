@@ -20,6 +20,13 @@
   </ul>
 </div>
 
+<!--TryHackMe Badge-->
+<p align='center'>
+  <a>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
+  </a>&nbsp;&nbsp;
+</p>
+
 <!--Github Profile Views-->
 <p align='center'>
   <a>
@@ -63,14 +70,3 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondmarien&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" width="350">
   </a>&nbsp;&nbsp;
 </p>
-
-
-
-<!--TryHackMe Badge-->
-<p align='center'>
-  <a>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
-  </a>&nbsp;&nbsp;
-</p>
-
-

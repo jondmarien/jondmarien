@@ -13,6 +13,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Configure Git author
+      run: |
+        git config --global user.email "jondmarien@gmail.com"
+        git config --global user.name "jondmarien"
+
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:

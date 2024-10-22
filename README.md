@@ -4,7 +4,8 @@
 </h1>
 
 <!--Jon Marien Mr. Robot Text-->
-![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/fc455e6a5eb14e9642227c6c149cb5fb4b77e340/Jon_Marien-Github_Profile_Pic.png)
+
+![Jon_Marien-Github_Profile_Pic.png](https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png)
 
 <!--Information about me!-->
 <div style="text-align: center; display: inline-block;">

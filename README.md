@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
 
+<p align='center'>
+  <a>
+   <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
+  </a>&nbsp;&nbsp;
+</p>
 
 <p align='center'>
   <a href="https://discord.gg/5CJarP6JCu">
@@ -40,9 +45,6 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/jondmarien">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a>
-   <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
   </a>&nbsp;&nbsp;
 </p>
 

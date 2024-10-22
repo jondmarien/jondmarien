@@ -6,10 +6,10 @@
   
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
-      <p align="center">In my free time, I am</p>
-      <a align="center" href="https://git.io/typing-svg">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=a+Cyber+Security+Student;a+TryHackMe+Enthusiast;a+Twitch+Streamer;always+learning!" alt="Typing SVG" />
+    <td align="center">
+      <p>In my free time, I am</p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=a+Cyber+Security+Student;a+TryHackMe+Enthusiast;a+Twitch+Streamer;always+learning!" alt="Typing SVG" />
       </a>
     </td>
   </tr>

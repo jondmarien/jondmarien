@@ -60,7 +60,7 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jondmarien&theme=tokyo-night&show_icons=true&count_private=true" width="350">
   </a>&nbsp;&nbsp;
   <a href="#">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondmarien&theme=tokyo-night&include_all_commits=true&count_private=true&layout=compact" width="350">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondmarien&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" width="350">
   </a>&nbsp;&nbsp;
 </p>
 

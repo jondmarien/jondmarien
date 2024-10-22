@@ -35,15 +35,17 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/graph?username=jondmarien&show_icons=true&count_private=true&theme=tokyo-night" width="350"></a>
+</p>
+
 <!--
 Fix Dymamic Badge
 -->
 <p align='center'>
   <a>
-   <img src="[https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white](https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1)" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1" />
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+

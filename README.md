@@ -4,7 +4,7 @@
    <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
   </h1>
   
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <p>In my free time, I am a</p>

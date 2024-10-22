@@ -7,12 +7,16 @@ body {
    <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
   </h1>
   
-  <div style="text-align: center;">
-    <p>In my free time, I am a</p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Security+Student;TryHackMe+Enthusiast;Twitch+Streamer;always+learning!" alt="Typing SVG" />
-    </a>
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <p>In my free time, I am a</p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Security+Student;TryHackMe+Enthusiast;Twitch+Streamer;always+learning!" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
   <!-- 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)-->
   

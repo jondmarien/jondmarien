@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align='center'>
+  ### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
+</h1>
+
+
 
 <!--
 **jondmarien/jondmarien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord is the best, you can find me @chronoblaze.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!
+
+![image]({https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white})
 
 ![TryHackMeDynamicBadge]([https://tryhackme-badges.s3.amazonaws.com/jondmarien.png?update=1](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071))

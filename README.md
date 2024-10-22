@@ -36,8 +36,9 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-graph.vercel.app/graph?username=jondmarien&show_icons=true&count_private=true&theme=tokyo-night" width="350"></a>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jondmarien&theme=tokyo-night&show_icons=true&count_private=true" width="350"></a>
 </p>
+
 
 <p align='center'>
   <a>

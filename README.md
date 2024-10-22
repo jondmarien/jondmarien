@@ -7,7 +7,7 @@
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td>
-      <p>In my free time, I am a</p>
+      <p align="center">In my free time, I am a</p>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Security+Student;TryHackMe+Enthusiast;Twitch+Streamer;always+learning!" alt="Typing SVG" />
       </a>

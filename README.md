@@ -1,13 +1,10 @@
-body {
-    font-family: 'Fira Sans'; font-size: 22px;
-}
 <body>
   <!--Hello There!-->
   <h1 align='center'>
    <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
   </h1>
   
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <p>In my free time, I am a</p>

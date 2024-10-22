@@ -4,7 +4,7 @@
    <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
   </h1>
   
-<table align="center" border="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <p>In my free time, I am a</p>
@@ -14,8 +14,6 @@
     </td>
   </tr>
 </table>
-  <!-- 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)-->
   
   <!--Jon Marien Mr. Robot Text-->
   

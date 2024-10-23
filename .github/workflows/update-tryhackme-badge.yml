@@ -25,3 +25,15 @@ jobs:
         username: 'jondmarien'
         user_id: 'jondmarien'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Force update badge
+      run: | 
+          git fetch origin main
+          git checkout main
+          cp ./assets/tryhackme-badge.png ./assets/tryhackme-badge.png.bak || true
+          curl -o ./assets/tryhackme-badge.png https://tryhackme-badges.s3.amazonaws.com/jondmarien.png
+          if ! cmp -s ./assets/tryhackme-badge.png ./assets/tryhackme-badge.png.bak; then
+            git add ./assets/tryhackme-badge.png
+            git commit -m "Updated TryHackMe badge"
+            git push origin main
+          fi

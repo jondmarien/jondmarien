@@ -45,13 +45,14 @@
   <picture>
     <!-- Dark mode image -->
     <source
-        srcset="https://github.pumbas.net/api/contributions/YOUR_GITHUB_USERNAME?bgColour=161B22"
+        srcset="https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22"
         media="(prefers-color-scheme: dark)"
+        alt="jondmarien's Contributions"
     />
     <!-- Default, light mode image -->
     <img 
-        src="https://github.pumbas.net/api/contributions/YOUR_GITHUB_USERNAME?colour=002AFF&bgColour=F6F8FA"
-        alt="YOUR_GITHUB_USERNAME's Contributions"
+        src="https://github.pumbas.net/api/contributions/jondmarien?colour=002AFF&bgColour=F6F8FA"
+        alt="jondmarien's Contributions"
     />
    </picture>
 

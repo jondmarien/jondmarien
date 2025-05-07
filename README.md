@@ -41,12 +41,20 @@
     </a>
   </p>
 
-  <!-- Dark mode image -->
-  <p align="center">
-    <a>
-     [![Jon's Contributions](https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
-    </a>
-  </p>
+  <!--Contributions (based on user light/dark prefs)-->
+  <picture>
+    <!-- Dark mode image -->
+    <source
+        srcset="https://github.pumbas.net/api/contributions/YOUR_GITHUB_USERNAME?bgColour=161B22"
+        media="(prefers-color-scheme: dark)"
+    />
+    <!-- Default, light mode image -->
+    <img 
+        src="https://github.pumbas.net/api/contributions/YOUR_GITHUB_USERNAME?colour=002AFF&bgColour=F6F8FA"
+        alt="YOUR_GITHUB_USERNAME's Contributions"
+    />
+   </picture>
+
   <!--TryHackMe Badge-->
   <p align='center'>
     <a>

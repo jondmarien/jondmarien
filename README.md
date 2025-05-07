@@ -86,17 +86,6 @@
     </a>
   </p>
   
-  
-  <!--Github Stats-->
-  <p align='center'>
-    <a href="#">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jondmarien&theme=tokyo-night&show_icons=true&count_private=true" width="350">
-    </a>
-    <a href="#">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondmarien&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" width="350">
-    </a>
-  </p>
-  
   <!--Holopin Stats-->
   <p align='center'>
     <a href="https://holopin.io/@jondmarien">

@@ -40,6 +40,9 @@
      <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
     </a>&nbsp;&nbsp;
   </p>
+
+  <!-- Dark mode image -->
+[![Jon's Contributions](https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
   
   <!--TryHackMe Badge-->
   <p align='center'>

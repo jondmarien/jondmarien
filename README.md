@@ -42,8 +42,9 @@
   </p>
 
   <!-- Dark mode image -->
-[![Jon's Contributions](https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
-  
+  <p align="center">
+      [![Jon's Contributions](https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
+  </p>
   <!--TryHackMe Badge-->
   <p align='center'>
     <a>

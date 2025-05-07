@@ -59,7 +59,6 @@
   <!--TryHackMe Badge-->
   <p align='center'>
     <a>
-     <!-- Dynamic Badge <img src="https://github.com/jondmarien/jondmarien/blob/89280da0d706ed107369ef125dc03bc90984a709/assets/tryhackme-badge.png" /> --> 
      <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071" />
     </a>
   </p>

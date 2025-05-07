@@ -38,47 +38,47 @@
   <p align='center'>
     <a>
      <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
-    </a>
+    </a>&nbsp;&nbsp;
   </p>
 
   <!-- Dark mode image -->
   <p align="center">
     <a>
      [![Jon's Contributions](https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
-    </a>
+    </a>&nbsp;&nbsp;
   </p>
   <!--TryHackMe Badge-->
   <p align='center'>
     <a>
      <!-- Dynamic Badge <img src="https://github.com/jondmarien/jondmarien/blob/89280da0d706ed107369ef125dc03bc90984a709/assets/tryhackme-badge.png" /> --> 
      <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071" />
-    </a>
+    </a>&nbsp;&nbsp;
   </p>
   
   <!--Disocrd, Linkedin, and TryHackMe-->
   <p align='center'>
     <a href="https://discord.gg/5CJarP6JCu">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jondmarien/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://tryhackme.com/r/p/jondmarien">
       <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
   </p>
   
   <!--Youtube, Twitch, etc.-->
   <p align='center'>
     <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
       <img src="https://img.shields.io/youtube/channel/views/UC2ZL1XH9cWgTbL9BtZNNtgA?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Jon M's YouTube channel"" />        
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
       <img src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA?style=for-the-badge&logo=youtube&label=Youtube Subscribers&color=FF0000" alt="Jon M's YouTube channel"" />        
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.twitch.tv/sirchronoblaze">
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
-    </a>
+    </a>&nbsp;&nbsp;
   </p>
   
   

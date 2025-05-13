@@ -23,14 +23,14 @@
   <!--Information about me!-->
   <div style="text-align: center; display: inline-block;">
     <ul style="list-style-position: inside; padding: 0;">
-      <li>🔭 I’m currently working on increasing my knowledge and adaptability.</li>
-      <li>🌱 I’m currently diving deep into malware research!</li>
-      <li>👯 I’m looking to collaborate on any project!! Message me for details.</li>
-      <li>🤔 I’m looking for help with finding a co-op job/internship!</li>
-      <li>💬 Ask me about my passion for cybersecurity. :D</li>
+      <li>🔭 I’m currently working on a cool automated service for a certain type of competition...hmm...I wonder what it could be 🤔.</li>
+      <li>🌱 When I’m not diving deep into malware research, you can probably find me coding a new app (or diving into the world of webapps) 😁!</li>
+      <li>👯 I’m looking to collaborate on any type of project!! Message me for details, discord would be best. Info down below! Message me with some kind of TL;DR or introduction about yourself and we can get started!</li>
+      <li>🤔 I’m looking for help with finding a grad job! I am soon to graduate in December 2025! Message me for details. I would love to connect.</li>
+      <li>💬 Ask me about my passion for cybersecurity, programming, or anything tech related. I'm always on top of the latest news 📰 😎.</li>
       <li>📫 How to reach me: Discord is the best, you can find me @chronoblaze.</li>
       <li>😄 Pronouns: he/him/his.</li>
-      <li>⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in making cybersecurity my career!</li>
+      <li>⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in mashing up the two and do some type of cybersecurity + programming mashup. AppSec has always been an avenue for me, but I always wanted to branch further in to cybersecurity-type jobs. Follow me for updates on my career 🎓!</li>
     </ul>
   </div>
   

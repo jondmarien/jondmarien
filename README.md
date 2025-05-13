@@ -74,7 +74,8 @@
   <!--Youtube, Twitch, etc.-->
   <p align='center'>
     <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA?style=for-the-badge&logo=youtube&label=Youtube Subscribers&color=FF0000" alt="Jon M's YouTube channel"" />        
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA">
+      <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC2ZL1XH9cWgTbL9BtZNNtgA">
     </a>
     <a href="https://www.twitch.tv/sirchronoblaze">
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        

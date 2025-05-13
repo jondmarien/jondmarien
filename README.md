@@ -56,12 +56,7 @@
     />
    </picture>
 
-  <!--TryHackMe Badge-->
-  <p align='center'>
-    <a>
-     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3401071" />
-    </a>
-  </p>
+  
   
   <!--Disocrd, Linkedin, and TryHackMe-->
   <p align='center'>

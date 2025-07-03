@@ -85,7 +85,7 @@
 <!--Github Trophies-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=onedark" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C" alt="trophy"/>
   </a>
 </p>
 

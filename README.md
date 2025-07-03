@@ -41,7 +41,8 @@
     </a>
   </p>
 
-  <!--Contributions (based on user light/dark prefs)-->
+<!--Contributions (based on user light/dark prefs)-->
+<p align="center" width="100%">
   <picture>
     <!-- Dark mode image -->
     <source
@@ -54,9 +55,8 @@
         src="https://github.pumbas.net/api/contributions/jondmarien?colour=002AFF&bgColour=F6F8FA"
         alt="jondmarien's Contributions"
     />
-   </picture>
-
-  
+  </picture>
+</p>
   
   <!--Disocrd, Linkedin, and TryHackMe-->
   <p align='center'>
@@ -89,3 +89,24 @@
     </a>
   </p>
 </body>
+
+<!--Github Stats-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=ambient_gradient&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
+</p>
+
+<!--Github Trophies-->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=onedark" alt="trophy"/>
+  </a>
+</p>
+
+<!--Snake Game-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
+  </picture>
+</p>

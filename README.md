@@ -81,19 +81,6 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
     </a>
   </p>
-  
-  <!--Holopin Stats-->
-  <p align='center'>
-    <a href="https://holopin.io/@jondmarien">
-     <img src="https://holopin.me/jondmarien">
-    </a>
-  </p>
-</body>
-
-<!--Github Stats-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=ambient_gradient&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
-</p>
 
 <!--Github Trophies-->
 <p align="center">
@@ -109,4 +96,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
   </picture>
+</p>
+
+
+<!--Github Stats-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=ambient_gradient&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
 </p>

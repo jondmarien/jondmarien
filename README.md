@@ -46,13 +46,13 @@
   <picture>
     <!-- Dark mode image -->
     <source
-        srcset="https://github.pumbas.net/api/contributions/jondmarien?bgColour=161B22"
+        srcset="https://github.pumbas.net/api/contributions/jondmarien?colour=61D719&dotColour=AB2828"
         media="(prefers-color-scheme: dark)"
         alt="jondmarien's Contributions"
     />
     <!-- Default, light mode image -->
     <img 
-        src="https://github.pumbas.net/api/contributions/jondmarien?colour=002AFF&bgColour=F6F8FA"
+        src="https://github.pumbas.net/api/contributions/jondmarien?colour=61D719&bgColour=F6F8FA&dotColour=AB2828"
         alt="jondmarien's Contributions"
     />
   </picture>
@@ -101,5 +101,5 @@
 
 <!--Github Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=ambient_gradient&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=gotham&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
 </p>

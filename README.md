@@ -15,67 +15,25 @@
   </tr>
 </table>
 
-<!-- Hacker Terminal Header -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #0f0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 0 auto;">
-  ____ _   _ ____   ___  _   _  _ ____        ____  _  ____ 
- / ___| | | |  _ \ / _ \| \ | |/ _ \| ) ___|      |  _ \/ |/ ___| 
-| |   | |_| | |_) | | | |  \| | | | |/\___ \ _____| |_) | | |  _  
-| |___|  _  |  _ <| |_| | |\  | |_| |  ___) |_____|  _ <| | |_| | 
- \____|_| |_|_| \_\\___/|_| \_|\___/  |____/      |_| \_\_|\____| 
-  </pre>
-</div>
-
   <!--Jon Marien Mr. Robot Text-->
   <p align="center">
     <img src="https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png" alt="Jon Marien GitHub Profile Pic" />
   </p>
 
+<!-- Hacker Terminal Header - CHRONOS RIG -->
+<div align="center" >
+  <img width="645" height="295" alt="carbon(1)" src="https://github.com/user-attachments/assets/c07179b6-2023-404b-95af-abf19459c7b3" />
+</div>
+
 <!-- Profile Section -->
 <!-- Profile Info Table -->
-<table align="center" style="border-collapse: collapse; width: 800px; max-width: 100%; font-family: monospace; background-color: #000; color: #0f0; border: 1px solid #0f0;">
-  <tr>
-    <td style="padding: 10px; border: 1px solid #0f0;">
-      <pre style="margin: 0; font-family: monospace; color: #0f0;">
-┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ cat profile.txt                                                                                      │
-├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🎓 EDUCATION: Information Systems Security - 4th Year (Graduating Dec 2025)                                           │
-│ 🏢 ROLE: Full Stack Security Software Engineer @ Hackalyst                                                            │
-│ 📍 LOCATION: REDACTED                                                                                                 │
-│ 🌐 WEBSITE: https://chron0.link                                                                                       │
-│ 💬 DISCORD: @chronoblaze                                                                                              │
-│ 🎯 FOCUS: Cybersecurity + Programming mashup, AppSec, Malware Research                                                │
-│ 🚀 STARTED CODING: Age 7 with BASIC                                                                                   │
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-      </pre>
-    </td>
-  </tr>
-</table>
+<div align="center" >
+  <img width="645" height="403" alt="carbon(6)" src="https://github.com/user-attachments/assets/264cd6b7-19c7-4cbd-a648-8f1c085f73c6" />
+</div>
 
 <!-- Skills Section -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #ff0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ ls -la skills/                                                                                         │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                                          │
-│ 🔥 PROGRAMMING LANGUAGES 🔥                                                                                             │
-│ • Java • C/C++ • Assembly • Python • Bash • PowerShell • Rust                                                            │
-│                                                                                                                          │
-│ ⚡ TECHNICAL AREAS ⚡                                                                                                   │
-│ • Frontend • Backend • Systems • Architecture • Administration • Database                                                │
-│                                                                                                                          │
-│ 🛡️ SECURITY SPECIALIZATIONS 🛡️                                                                                          │
-│ • Secure Coding • Cybersecurity • AppSec • Malware Research                                                              │
-│                                                                                                                          │
-│ 🔧 TOOLS & PLATFORMS 🔧                                                                                                 │
-│ • DigitalOcean • Docker • NMAP • Metasploit • Burp Suite                                                                 │
-│                                                                                                                          │
-│ 🎯 INTERESTS 🎯                                                                                                         │
-│ • AR/VR • Blockchain • IoT • Machine Learning/AI • Quantum • Gaming • Productivity                                       │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-  </pre>
+<div align="center" >
+  <img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" />
 </div>
 
 <!-- Top Repositories Section -->

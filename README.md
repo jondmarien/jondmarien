@@ -37,17 +37,17 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #0f0;">
       <pre style="margin: 0; font-family: monospace; color: #0f0;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ cat profile.txt                                                                                         │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🎓 EDUCATION: Information Systems Security - 4th Year (Graduating Dec 2025)                                              │
-│ 🏢 ROLE: Full Stack Security Software Engineer @ Hackalyst                                                               │
-│ 📍 LOCATION: Mississauga, Ontario, Canada                                                                                │
-│ 🌐 WEBSITE: https://chron0.link                                                                                          │
-│ 💬 DISCORD: @chronoblaze                                                                                                 │
-│ 🎯 FOCUS: Cybersecurity + Programming mashup, AppSec, Malware Research                                                   │
-│ 🚀 STARTED CODING: Age 7 with BASIC                                                                                      │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ cat profile.txt                                                                                      │
+├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🎓 EDUCATION: Information Systems Security - 4th Year (Graduating Dec 2025)                                           │
+│ 🏢 ROLE: Full Stack Security Software Engineer @ Hackalyst                                                            │
+│ 📍 LOCATION: Mississauga, Ontario, Canada                                                                             │
+│ 🌐 WEBSITE: https://chron0.link                                                                                       │
+│ 💬 DISCORD: @chronoblaze                                                                                              │
+│ 🎯 FOCUS: Cybersecurity + Programming mashup, AppSec, Malware Research                                                │
+│ 🚀 STARTED CODING: Age 7 with BASIC                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
       </pre>
     </td>
   </tr>
@@ -180,13 +180,13 @@
 <!-- Terminal Footer -->
 <div align="center">
   <pre style="font-family: monospace; background-color: #000; color: #f60; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                            ║
-║   ⚡ SYSTEM TERMINAL // HACK COMPLETE // ALL SYSTEMS NOMINAL ⚡                                                           ║
-║                                                                                                                            ║
-║   root@chrono:~$ █                                                                                                         ║
-║                                                                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                         ║
+║   ⚡ SYSTEM TERMINAL // HACK COMPLETE // ALL SYSTEMS NOMINAL ⚡                                                        ║
+║                                                                                                                         ║
+║   root@chrono:~$ █                                                                                                      ║
+║                                                                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
   </pre>
 </div>
   

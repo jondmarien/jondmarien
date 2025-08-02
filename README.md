@@ -42,7 +42,7 @@
 ├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ 🎓 EDUCATION: Information Systems Security - 4th Year (Graduating Dec 2025)                                           │
 │ 🏢 ROLE: Full Stack Security Software Engineer @ Hackalyst                                                            │
-│ 📍 LOCATION: Mississauga, Ontario, Canada                                                                             │
+│ 📍 LOCATION: REDACTED                                                                                                 │
 │ 🌐 WEBSITE: https://chron0.link                                                                                       │
 │ 💬 DISCORD: @chronoblaze                                                                                              │
 │ 🎯 FOCUS: Cybersecurity + Programming mashup, AppSec, Malware Research                                                │

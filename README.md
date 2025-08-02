@@ -14,25 +14,191 @@
     </td>
   </tr>
 </table>
-  
+
+<!-- Hacker Terminal Header -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #0f0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 0 auto;">
+  ____ _   _ ____   ___  _   _  _ ____        ____  _  ____ 
+ / ___| | | |  _ \ / _ \| \ | |/ _ \| ) ___|      |  _ \/ |/ ___| 
+| |   | |_| | |_) | | | |  \| | | | |/\___ \ _____| |_) | | |  _  
+| |___|  _  |  _ <| |_| | |\  | |_| |  ___) |_____|  _ <| | |_| | 
+ \____|_| |_|_| \_\\___/|_| \_|\___/  |____/      |_| \_\_|\____| 
+  </pre>
+</div>
+
   <!--Jon Marien Mr. Robot Text-->
   <p align="center">
     <img src="https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png" alt="Jon Marien GitHub Profile Pic" />
   </p>
-  
-  <!--Information about me!-->
-  <div style="text-align: center; display: inline-block;">
-    <ul style="list-style-position: inside; padding: 0;">
-      <li>🔭 I’m currently working on a cool automated service for a certain type of competition...hmm...I wonder what it could be 🤔.</li>
-      <li>🌱 When I’m not diving deep into malware research, you can probably find me coding a new app (or diving into the world of webapps) 😁!</li>
-      <li>👯 I’m looking to collaborate on any type of project!! Message me for details, discord would be best. Info down below! Message me with some kind of TL;DR or introduction about yourself and we can get started!</li>
-      <li>🤔 I’m looking for help with finding a grad job! I am soon to graduate in December 2025! Message me for details. I would love to connect.</li>
-      <li>💬 Ask me about my passion for cybersecurity, programming, or anything tech related. I'm always on top of the latest news 📰 😎.</li>
-      <li>📫 How to reach me: Discord is the best, you can find me @chronoblaze.</li>
-      <li>😄 Pronouns: he/him/his.</li>
-      <li>⚡ Fun fact: I started programming on computers at the ripe age of 7, with BASIC. Now, I'm extremely interested in mashing up the two and do some type of cybersecurity + programming mashup. AppSec has always been an avenue for me, but I always wanted to branch further in to cybersecurity-type jobs. Follow me for updates on my career 🎓!</li>
-    </ul>
-  </div>
+
+<!-- Profile Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #f0f; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                                ║
+║   🌟 JON MARIEN // CYBERSECURITY SPECIALIST & FULL-STACK DEVELOPER 🌟                                                         ║
+║                                                                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+  </pre>
+</div>
+
+<!-- Profile Info Table -->
+<table align="center" style="border-collapse: collapse; width: 800px; max-width: 100%; font-family: monospace; background-color: #000; color: #0f0; border: 1px solid #0f0;">
+  <tr>
+    <td style="padding: 10px; border: 1px solid #0f0;">
+      <pre style="margin: 0; font-family: monospace; color: #0f0;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ cat profile.txt                                                                                            │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🎓 EDUCATION: Information Systems Security - 4th Year (Graduating Dec 2025)                                                 │
+│ 🏢 ROLE: Full Stack Security Software Engineer @ Hackalyst                                                                  │
+│ 📍 LOCATION: Mississauga, Ontario, Canada                                                                                   │
+│ 🌐 WEBSITE: https://chron0.link                                                                                             │
+│ 💬 DISCORD: @chronoblaze                                                                                                    │
+│ 🎯 FOCUS: Cybersecurity + Programming mashup, AppSec, Malware Research                                                      │
+│ 🚀 STARTED CODING: Age 7 with BASIC                                                                                         │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<!-- Skills Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #ff0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ ls -la skills/                                                                                             │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                              │
+│ 🔥 PROGRAMMING LANGUAGES 🔥                                                                                                 │
+│ • Java • C/C++ • Assembly • Python • Bash • PowerShell • Rust                                                                │
+│                                                                                                                              │
+│ ⚡ TECHNICAL AREAS ⚡                                                                                                       │
+│ • Frontend • Backend • Systems • Architecture • Administration • Database                                                    │
+│                                                                                                                              │
+│ 🛡️ SECURITY SPECIALIZATIONS 🛡️                                                                                              │
+│ • Secure Coding • Cybersecurity • AppSec • Malware Research                                                                  │
+│                                                                                                                              │
+│ 🔧 TOOLS & PLATFORMS 🔧                                                                                                     │
+│ • DigitalOcean • Docker • NMAP • Metasploit • Burp Suite                                                                     │
+│                                                                                                                              │
+│ 🎯 INTERESTS 🎯                                                                                                             │
+│ • AR/VR • Blockchain • IoT • Machine Learning/AI • Quantum • Gaming • Productivity                                           │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
+
+<!-- Top Repositories Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #f60; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ ./repo_scanner --top-projects                                                                              │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                              │
+│ 🚀 TOP REPOSITORIES 🚀                                                                                                      │
+│                                                                                                                              │
+│ [1] dVulnDB - Web3 vulnerability disclosure & bug bounty platform (TypeScript) ⭐ 1                                          │
+│    → Cutting-edge platform for cybersecurity professionals                                                                   │
+│                                                                                                                              │
+│ [2] automotive-security-capstone - Automotive security capstone project (Python) ⭐ 5                                        │
+ │    → Public repository for automotive security research                                                                      │ 
+│                                                                                                                              │
+│ [3] automotive-security-poc - Automotive Security Proof of Concept (Python) ⭐ 2                                             │
+│    → Experimental automotive security testing framework                                                                      │
+│                                                                                                                              │
+│ [4] ClipCraftr - Discord bot for video clips & montages (TypeScript) ⭐ 1                                                    │
+│    → Automated video processing with web dashboard                                                                           │
+│                                                                                                                              │
+│ [5] TuneFlow - YT Video Description, Comments, Chapters Parser (TypeScript) ⭐ 1                                             │
+│    → Multi-platform playlist creation tool                                                                                   │
+│                                                                                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #0ff; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ ./stats --overview                                                                                         │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                              │
+│ 📊 GITHUB METRICS 📊                                                                                                        │
+│ • Total Repositories: 99                                                                                                     │
+│ • Total Stars: 171                                                                                                           │
+│ • Contributions (Last Year): 2,874                                                                                           │
+│ • Followers: 28 • Following: 116                                                                                             │
+│ • Pinned Projects: 6                                                                                                         │
+│ • Devpost Projects: 1 • Hackathons: 2                                                                                        │
+│                                                                                                                              │
+│ 🔥 ACTIVITY HEAT 🔥                                                                                                         │
+│ • Peak Activity: May 2025 (964 contributions)                                                                                │
+│ • Most Active Days: Weekends + Nights                                                                                        │
+│ • Consistency: Regular commits with spike periods                                                                            │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
+
+<!-- Contact Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #f0f; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  >_ root@chrono:~$ ./contact --matrix                                                                                        │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                              │
+│ 📡 CONNECTION MATRIX 📡                                                                                                     │
+│                                                                                                                              │
+│ • GitHub:        https://github.com/jondmarien/                                                                              │
+│ • Website:       https://chron0.link | https://chron0.tech                                                                   │
+│ • Discord:       @chronoblaze                                                                                                │
+│ • LinkedIn:      in/jondmarien                                                                                               │
+│ • Email:         [Professional inquiries via Discord]                                                                        │
+│                                                                                                                              │
+│ 💼 COLLABORATION STATUS 💼                                                                                                  │
+│ • Open to:        Any type of project collaboration                                                                          │
+│ • Seeking:        Grad job opportunities (Graduating Dec 2025)                                                               │
+│ • Best Contact:   Discord with TL;DR introduction                                                                            │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
+
+<!-- Mission Section -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #0f0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ >_ root@chrono:~$ ./mission --brief                                                                                          │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                              │
+│ 🎯 CURRENT OBJECTIVES 🎯                                                                                                    │
+│                                                                                                                              │
+│ • Working on automated service for cybersecurity competitions                                                                │
+│ • Deep diving into malware research and analysis                                                                             │
+│ • Developing web applications and services                                                                                   │
+│ • Building automotive security testing frameworks                                                                            │
+│ • Creating AI-powered security tools                                                                                         │
+│                                                                                                                              │
+│ 🔮 FUTURE GOALS 🔮                                                                                                          │
+│                                                                                                                              │
+│ • Branch into broader cybersecurity roles beyond AppSec                                                                      │
+│ • Graduate December 2025 and enter professional cybersecurity field                                                          │
+│ • Continue developing innovative security tools and platforms                                                                │
+│ • Expand knowledge in quantum computing and security                                                                         │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
+
+<!-- Terminal Footer -->
+<div align="center">
+  <pre style="font-family: monospace; background-color: #000; color: #f60; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                                ║
+║   ⚡ SYSTEM TERMINAL // HACK COMPLETE // ALL SYSTEMS NOMINAL ⚡                                                               ║
+║                                                                                                                                ║
+║   root@chrono:~$ █                                                                                                             ║
+║                                                                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+  </pre>
+</div>
   
   <!--Github Profile Views-->
   <p align='center'>
@@ -40,7 +206,6 @@
      <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
     </a>
   </p>
-
 <!--Contributions (based on user light/dark prefs)-->
 <p align="center" width="100%">
   <picture>
@@ -81,14 +246,12 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
     </a>
   </p>
-
 <!--Github Trophies-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C" alt="trophy"/>
   </a>
 </p>
-
 <!--Snake Game-->
 <p align="center">
   <picture>
@@ -97,9 +260,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
   </picture>
 </p>
-
-
-<!--Github Stats-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jondmarien&show_icons=true&theme=gotham&card_width=400&line_height=40&cache_seconds=1800" alt="Ding's GitHub stats"/>
-</p>
+</body>

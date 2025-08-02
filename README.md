@@ -1,7 +1,7 @@
 <body>
   <!--Hello There!-->
   <h1 align='center'>
-   <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻</p> 
+   <p> 🌟 Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻 // A Cybersecurity Specialist & Full-Stack Software Developer 🌟</p>
   </h1>
   
 <table align="center" style="border: none; border-collapse: collapse;">
@@ -32,16 +32,6 @@
   </p>
 
 <!-- Profile Section -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #f0f; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                                ║
-║   🌟 JON MARIEN // CYBERSECURITY SPECIALIST & FULL-STACK DEVELOPER 🌟                                                         ║
-║                                                                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
 <!-- Profile Info Table -->
 <table align="center" style="border-collapse: collapse; width: 800px; max-width: 100%; font-family: monospace; background-color: #000; color: #0f0; border: 1px solid #0f0;">
   <tr>

@@ -20,132 +20,44 @@
     <img src="https://github.com/jondmarien/jondmarien/blob/a8ebf914e97abc8fd45a41b3f54a2f780ad33982/assets/Jon_Marien-Github_Profile_Pic.png" alt="Jon Marien GitHub Profile Pic" />
   </p>
 
-<!-- Hacker Terminal Header - CHRONOS RIG -->
-<div align="center" >
-  <img width="645" height="295" alt="carbon(1)" src="https://github.com/user-attachments/assets/c07179b6-2023-404b-95af-abf19459c7b3" />
-</div>
+<!-- Side-by-Side: CHRONOS RIG (Left) and Profile Section (Right) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- CHRONOS RIG on Left -->
+    <td><img width="645" height="295" alt="carbon(1)" src="https://github.com/user-attachments/assets/c07179b6-2023-404b-95af-abf19459c7b3" /></td>
+    <!-- Profile Section on Right -->
+    <td><img width="645" height="403" alt="carbon(6)" src="https://github.com/user-attachments/assets/264cd6b7-19c7-4cbd-a648-8f1c085f73c6" /></td>
+  </tr>
+</table>
 
-<!-- Profile Section -->
-<!-- Profile Info Table -->
-<div align="center" >
-  <img width="645" height="403" alt="carbon(6)" src="https://github.com/user-attachments/assets/264cd6b7-19c7-4cbd-a648-8f1c085f73c6" />
-</div>
+<!-- Side-by-Side: Top Repos Section (Left) and Skills Section (Right) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Top Repos Section on Left -->
+    <td><img width="858" height="562" alt="Repos Section(1)" src="https://github.com/user-attachments/assets/85884bef-46a3-4f25-9634-cf14ca0e8ed1" /></td>
+    <!-- Skills Section on Right -->
+    <td><img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" /></td>
+  </tr>
+</table>
 
-<!-- Skills Section -->
-<div align="center" >
-  <img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" />
-</div>
-
-<!-- Top Repositories Section -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #f60; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ ./repo_scanner --top-projects                                                                          │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                                          │
-│ 🚀 TOP REPOSITORIES 🚀                                                                                                  │
-│                                                                                                                          │
-│ [1] dVulnDB - Web3 vulnerability disclosure & bug bounty platform (TypeScript) ⭐ 1                                      │
-│    → Cutting-edge platform for cybersecurity professionals                                                               │
-│                                                                                                                          │
-│ [2] automotive-security-capstone - Automotive security capstone project (Python) ⭐ 5                                    │
-│    → Public repository for automotive security research                                                                  │ 
-│                                                                                                                           │
-│ [3] automotive-security-poc - Automotive Security Proof of Concept (Python) ⭐ 2                                         │
-│    → Experimental automotive security testing framework                                                                  │
-│                                                                                                                          │
-│ [4] ClipCraftr - Discord bot for video clips & montages (TypeScript) ⭐ 1                                                │
-│    → Automated video processing with web dashboard                                                                       │
-│                                                                                                                          │
-│ [5] TuneFlow - YT Video Description, Comments, Chapters Parser (TypeScript) ⭐ 1                                         │
-│    → Multi-platform playlist creation tool                                                                               │
-│                                                                                                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-  </pre>
-</div>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #0ff; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ ./stats --overview                                                                                     │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                                          │
-│ 📊 GITHUB METRICS 📊                                                                                                    │
-│ • Total Repositories: 99                                                                                                 │
-│ • Total Stars: 171                                                                                                       │
-│ • Contributions (Last Year): 2,874                                                                                       │
-│ • Followers: 28 • Following: 116                                                                                         │
-│ • Pinned Projects: 6                                                                                                     │
-│ • Devpost Projects: 1 • Hackathons: 2                                                                                    │
-│                                                                                                                          │
-│ 🔥 ACTIVITY HEAT 🔥                                                                                                     │
-│ • Peak Activity: May 2025 (964 contributions)                                                                            │
-│ • Most Active Days: Weekends + Nights                                                                                    │
-│ • Consistency: Regular commits with spike periods                                                                        │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-  </pre>
-</div>
-
-<!-- Contact Section -->
-<div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #f0f; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  >_ root@chrono:~$ ./contact --matrix                                                                                    │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                                          │
-│ 📡 CONNECTION MATRIX 📡                                                                                                 │
-│                                                                                                                          │
-│ • GitHub:        https://github.com/jondmarien/                                                                          │
-│ • Website:       https://chron0.link | https://chron0.tech                                                               │
-│ • Discord:       @chronoblaze                                                                                            │
-│ • LinkedIn:      in/jondmarien                                                                                           │
-│ • Email:         [Professional inquiries via Discord]                                                                    │
-│                                                                                                                          │
-│ 💼 COLLABORATION STATUS 💼                                                                                              │
-│ • Open to:        Any type of project collaboration                                                                      │
-│ • Seeking:        Grad job opportunities (Graduating Dec 2025)                                                           │
-│ • Best Contact:   Discord with TL;DR introduction                                                                        │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-  </pre>
-</div>
+<!-- Side-by-Side: Contact Section (Left) and GitHub Stats Section (Right) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Contact Section on Left -->
+    <td><img width="645" height="490" alt="Contact Section" src="https://github.com/user-attachments/assets/e0f5768b-311b-4095-b1f5-102a6dd4c345" /></td>
+    <!-- GitHub Stats Section on Right -->
+    <td><img width="565" height="508" alt="Stats Section" src="https://github.com/user-attachments/assets/79d9fdab-84b0-47be-b548-a71302469ec2" /></td>
+  </tr>
+</table>
 
 <!-- Mission Section -->
 <div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #0f0; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ >_ root@chrono:~$ ./mission --brief                                                                                      │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                                           │
-│ 🎯 CURRENT OBJECTIVES 🎯                                                                                                 │
-│                                                                                                                           │
-│ • Working on automated service for cybersecurity competitions                                                             │
-│ • Deep diving into malware research and analysis                                                                          │
-│ • Developing web applications and services                                                                                │
-│ • Building automotive security testing frameworks                                                                         │
-│ • Creating AI-powered security tools                                                                                      │
-│                                                                                                                           │
-│ 🔮 FUTURE GOALS 🔮                                                                                                       │
-│                                                                                                                           │
-│ • Branch into broader cybersecurity roles beyond AppSec                                                                   │
-│ • Graduate December 2025 and enter professional cybersecurity field                                                       │
-│ • Continue developing innovative security tools and platforms                                                             │
-│ • Expand knowledge in quantum computing and security                                                                      │
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-  </pre>
+  <img width="645" height="544" alt="Mission Section(1)" src="https://github.com/user-attachments/assets/515f327f-6bf9-46e4-8ec3-929c21f77623" />
 </div>
 
 <!-- Terminal Footer -->
 <div align="center">
-  <pre style="font-family: monospace; background-color: #000; color: #f60; padding: 10px; border-radius: 5px; max-width: 800px; margin: 10px auto;">
-╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                         ║
-║   ⚡ SYSTEM TERMINAL // HACK COMPLETE // ALL SYSTEMS NOMINAL ⚡                                                        ║
-║                                                                                                                         ║
-║   root@chrono:~$ █                                                                                                      ║
-║                                                                                                                         ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-  </pre>
+  <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
 </div>
   
   <!--Github Profile Views-->

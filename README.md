@@ -109,7 +109,7 @@
 <!--Github Trophies-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=-1" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=4" alt="trophy"/>
   </a>
 </p>
 <!--Snake Game-->

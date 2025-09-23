@@ -3,6 +3,13 @@
   <h1 align='center'>
    <p> 🌟 Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻 // A Cybersecurity Specialist & Full-Stack Software Developer 🌟</p>
   </h1>
+
+   <!--Github Profile Views-->
+  <p align='center'>
+    <a>
+     <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
+    </a>
+  </p>
   
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
@@ -50,22 +57,6 @@
   </tr>
 </table>
 
-<!-- Mission Section -->
-<div align="center">
-  
-</div>
-
-<!-- Terminal Footer -->
-<div align="center">
-  <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
-</div>
-  
-  <!--Github Profile Views-->
-  <p align='center'>
-    <a>
-     <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
-    </a>
-  </p>
 <!--Contributions (based on user light/dark prefs)-->
 <p align="center" width="100%">
   <picture>
@@ -121,3 +112,8 @@
   </picture>
 </p>
 </body>
+
+<!-- Terminal Footer -->
+<div align="center">
+  <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
+</div>

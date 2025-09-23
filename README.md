@@ -38,12 +38,12 @@
 <!-- </table> -->
 
 <!-- Side-by-Side: Top Repos Section (Left) and Skills Section (Right) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Top Repos Section on Left -->
-    <td><img width="645" height="544" alt="Mission Section(1)" src="https://github.com/user-attachments/assets/515f327f-6bf9-46e4-8ec3-929c21f77623" /></td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Mission Section on Left -->
+    <td style="border: none; padding: 0; margin: 0;"><img width="645" height="544" alt="Mission Section(1)" src="https://github.com/user-attachments/assets/515f327f-6bf9-46e4-8ec3-929c21f77623" /></td>
     <!-- Skills Section on Right -->
-    <td><img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" /></td>
+    <td style="border: none; padding: 0; margin: 0;"><img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" /></td>
   </tr>
 </table>
 

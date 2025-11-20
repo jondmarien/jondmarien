@@ -1,7 +1,9 @@
 <body>
   <!--Hello There!-->
   <h1 align='center'>
-   <p> 🌟 Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I'm Jon M! 👨‍💻 // A Cybersecurity Specialist & Full-Stack Software Developer 🌟</p>
+   $${\color{magenta}\text{🌟 Hey there}}$$ <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/>
+   $${\color{magenta}\text{I'm Jon M! 👨‍💻}}$$
+   $${\color{magenta}\text{A Cybersecurity Specialist + Full-Stack Software Developer 🌟}}$$
   </h1>
 
    <!--Github Profile Views-->

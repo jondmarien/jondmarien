@@ -1,9 +1,9 @@
 <body>
   <!--Hello There!-->
   <h1 align='center'>
-   $${\color{magenta}\text{🌟 Hey there}}$$ <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/>
-   $${\color{magenta}\text{I'm Jon M! 👨‍💻}}$$
-   $${\color{magenta}\text{A Cybersecurity Specialist + Full-Stack Software Developer 🌟}}$$
+   $${\text{🌟 Hey there}}$$ <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/>
+   $${\text{I'm Jon M! 👨‍💻}}$$
+   $${\text{A Cybersecurity Specialist + Full-Stack Software Developer 🌟}}$$
   </h1>
 
    <!--Github Profile Views-->
@@ -16,7 +16,7 @@
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center">
-      <p>$${\color{gold}\text{In my free time, I am}}$$</p>
+      <p>$${\text{In my free time, I am}}$$</p>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=a+Cyber+Security+Student;a+TryHackMe+Enthusiast;a+Twitch+Streamer;always+learning!" alt="Typing SVG" />
       </a>

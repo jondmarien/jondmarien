@@ -40,14 +40,14 @@
 <!-- </table> -->
 
 <!-- Side-by-Side: Top Repos Section (Left) and Skills Section (Right) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- Contact Section on Left -->
-    <td><img width="645" height="490" alt="Contact Section" src="https://github.com/user-attachments/assets/e0f5768b-311b-4095-b1f5-102a6dd4c345" /></td>
-    <!-- Skills Section on Right -->
-    <td style="border: none; padding: 0; margin: 0;"><img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" /></td>
-  </tr>
-</table>
+<!-- <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;"> -->
+<!--   <tr style="border: none;"> -->
+<!--     <!-- Contact Section on Left -->
+<!--     <td><img width="645" height="490" alt="Contact Section" src="https://github.com/user-attachments/assets/e0f5768b-311b-4095-b1f5-102a6dd4c345" /></td> -->
+<!--     <!-- Skills Section on Right -->
+<!--     <td style="border: none; padding: 0; margin: 0;"><img width="490" height="620" alt="carbon(5)" src="https://github.com/user-attachments/assets/0b5b4574-7acd-414a-9a28-8f0a583abefe" /></td> -->
+<!--   </tr> -->
+<!--  </table> -->
 
 <!-- Side-by-Side: Contact Section (Left) and GitHub Stats Section (Right) -->
 <!-- <table align="center" border="0" cellpadding="0" cellspacing="0">  -->

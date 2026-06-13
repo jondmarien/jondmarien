@@ -76,7 +76,22 @@
   </picture>
 </p>
   
-  <!--Disocrd, Linkedin, and TryHackMe-->
+<!--Snake Game-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
+  </picture>
+</p>
+</body>
+
+<!-- Terminal Footer -->
+<div align="center">
+  <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
+</div>
+
+<!--Disocrd, Linkedin, and TryHackMe-->
   <p align='center'>
     <a href="https://discord.gg/5CJarP6JCu">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
@@ -102,20 +117,6 @@
 <!--Github Trophies-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=4" alt="trophy"/>
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=4" alt="trophy"/>
   </a>
 </p>
-<!--Snake Game-->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ding808/PigeonD/output/github-snake.svg" />
-  </picture>
-</p>
-</body>
-
-<!-- Terminal Footer -->
-<div align="center">
-  <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
-</div>

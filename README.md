@@ -12,6 +12,30 @@
      <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
     </a>
   </p>
+
+  <!--Disocrd, Linkedin, and TryHackMe-->
+  <p align='center'>
+    <a href="https://discord.gg/5CJarP6JCu">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
+    </a>
+    <a href="https://www.linkedin.com/in/jondmarien/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com/r/p/jondmarien">
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+    </a>
+  </p>
+  
+  <!--Youtube, Twitch, etc.-->
+  <p align='center'>
+    <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA">
+      <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC2ZL1XH9cWgTbL9BtZNNtgA">
+    </a>
+    <a href="https://www.twitch.tv/sirchronoblaze">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
+    </a>
+  </p>
   
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
@@ -59,6 +83,13 @@
 <!--  </tr>  -->
 <!-- </table>   -->
 
+<!--Github Trophies-->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=4" alt="trophy"/>
+  </a>
+</p>
+
 <!--Contributions (based on user light/dark prefs)-->
 <p align="center" width="100%">
   <picture>
@@ -90,33 +121,3 @@
 <div align="center">
   <img width="645" height="311" alt="Terminal Footer Section" src="https://github.com/user-attachments/assets/62183d3e-3c3d-467e-82ca-a3b40a726877" />
 </div>
-
-<!--Disocrd, Linkedin, and TryHackMe-->
-  <p align='center'>
-    <a href="https://discord.gg/5CJarP6JCu">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
-    </a>
-    <a href="https://www.linkedin.com/in/jondmarien/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://tryhackme.com/r/p/jondmarien">
-      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-    </a>
-  </p>
-  
-  <!--Youtube, Twitch, etc.-->
-  <p align='center'>
-    <a href="https://www.youtube.com/@SirChronoblaze?sub_confirmation=1">
-      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2ZL1XH9cWgTbL9BtZNNtgA">
-      <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC2ZL1XH9cWgTbL9BtZNNtgA">
-    </a>
-    <a href="https://www.twitch.tv/sirchronoblaze">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Jon M's Twitch Streams"" />        
-    </a>
-  </p>
-<!--Github Trophies-->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jondmarien&theme=matrix&rank=-B,-C&no-frame=true&no-bg=true&column=4" alt="trophy"/>
-  </a>
-</p>

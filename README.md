@@ -11,6 +11,9 @@
     <a>
      <img src="https://komarev.com/ghpvc/?username=jondmarien&label=Profile%20views&color=blueviolet&style=plastic" alt="jondmarien"/>
     </a>
+    <a href="https://github.com/jondmarien?tab=followers">
+     <img src="https://img.shields.io/github/followers/jondmarien?label=Github+Followers&style=for-the-badge" alt="GitHub followers" />
+    </a>
   </p>
 
   <!--Disocrd, Linkedin, and TryHackMe-->
